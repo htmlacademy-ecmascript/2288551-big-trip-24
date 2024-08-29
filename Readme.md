@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Elvira Fatin](https://up.htmlacademy.ru/ecmascript/24/user/2288551).
-* Наставник: `Неизвестно`.
+* Наставник: [Артем Именин](https://htmlacademy.ru/profile/aimenin).
 
 ---
 
